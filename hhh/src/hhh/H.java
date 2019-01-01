@@ -19,7 +19,7 @@ public class H {
 	   while(s.next()) {
 	   System.out.println(s.getInt(1));
 	   System.out.println(s.getString(2));}
-	    		
+	    		System.out.println("Iam the best ");
 		
 	}
 catch(Exception e ) {
